@@ -2,7 +2,7 @@
 
 # Olá! Meu nome é Luis Henrique! 👋
 
-- 📚 Estou cursando atualmente Ciências da Computação pela UnB (5º período).
+- 📚 Estou cursando atualmente Ciências da Computação pela UnB (6º período).
 - 💡 É a minha segunda graduação e com certeza a que eu sempre sonhei fazer! 
 -->
 
